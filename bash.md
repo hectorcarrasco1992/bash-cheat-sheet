@@ -21,11 +21,17 @@
     * `cd ~` goes home 
 ---
 ### `mv` 
-    * moves file[...] to location
-        * can also rename by doing `mv (file) (new name)` 
+  * moves file[...] to location
+    * can also rename by doing `mv (file) (new name)` 
+---
+###`pwd`
 
-`command -v` 
-    *
+  * prints working directory
+  ---
+
+
+
+
 
 
 
