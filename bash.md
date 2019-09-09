@@ -11,10 +11,10 @@
 
 
 ### `rm `
-*remove
+*removes file or directory 
 
 ### `rm -rf` 
-* removes files/ directory
+* removes directory
 
 ---
 
@@ -48,6 +48,13 @@
 ### `mkdir -p` 
 * creates a path for the directory just created
 
+
+---
+
+
+###  `touch`
+
+* makes a file(s)
 
 
 
